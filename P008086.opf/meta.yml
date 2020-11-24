@@ -3,5 +3,30 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN7845
   title: བླ་མེད་རྡོ་རྗེ་ཐེག་པའི་ལམ་གྱི་སྔོན་འགྲོ་སོགས།
-  volume: ''
+  volume:
+    29508447233d4316a976ea121fbc3508:
+      image_group_id: I3CN7847
+      title: Volume 1 of bla med rdo rje theg pa'i lam gyi sngon 'gro thar ba dang
+        thams cad mkhyen pa'i lam gyi sgron me/
+      volume_number: 1
+      total_pages: 426
+    82ae0df1a871477aa4cc29fb040f9f85:
+      image_group_id: I3CN7848
+      title: Volume 2 of bla med rdo rje theg pa'i lam gyi sngon 'gro thar ba dang
+        thams cad mkhyen pa'i lam gyi sgron me/
+      volume_number: 2
+      total_pages: 438
+    da674900c74140ad99b520fda09e3abc:
+      image_group_id: I3CN7849
+      title: Volume 3 of bla med rdo rje theg pa'i lam gyi sngon 'gro thar ba dang
+        thams cad mkhyen pa'i lam gyi sgron me/
+      volume_number: 3
+      total_pages: 506
   author: ''
+ebook_metadata:
+  title: བླ་མེད་རྡོ་རྗེ་ཐེག་པའི་ལམ་གྱི་སྔོན་འགྲོ་སོགས།
+  author: ''
+  sku: P008086
+  cover: cover.jpg
+  layers:
+  - pagination
