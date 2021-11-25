@@ -1,5 +1,7 @@
 id: P008086
 initial_creation_type: ocr
+created_at: 25/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W3CN7845
   title: བླ་མེད་རྡོ་རྗེ་ཐེག་པའི་ལམ་གྱི་སྔོན་འགྲོ་སོགས།
@@ -26,10 +28,3 @@ source_metadata:
       volume_number: 3
       total_pages: 506
       base_file: v003.txt
-ebook_metadata:
-  title: བླ་མེད་རྡོ་རྗེ་ཐེག་པའི་ལམ་གྱི་སྔོན་འགྲོ་སོགས།
-  author: ''
-  sku: P008086
-  cover: cover.jpg
-  layers:
-  - pagination
