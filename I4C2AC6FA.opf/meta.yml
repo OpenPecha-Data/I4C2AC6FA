@@ -15,8 +15,8 @@ default_language: bo
 source: https://library.bdrc.io
 source_file: null
 initial_creation_type: ocr
-imported: '2022-08-27T12:46:11.259724+00:00'
-last_modified: 2022-08-27 20:47:33.786890
+imported: '2022-09-03T15:52:10.449358+00:00'
+last_modified: 2022-09-03 23:52:55.460640
 parser: https://github.com/OpenPecha/Toolkit/blob/7f57883d84bc10351527a49ee6ce970ace404e50/openpecha/formatters/google_ocr.py
 source_metadata:
   id: http://purl.bdrc.io/resource/W3CN7845
@@ -25,24 +25,12 @@ source_metadata:
   reproduction_of: http://purl.bdrc.io/resource/MW3CN7845
   copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
   title: བླ་མེད་རྡོ་རྗེ་ཐེག་པའི་ལམ་གྱི་སྔོན་འགྲོ་སོགས།
-  author: སེམས་དཔའ་ཆེན་པོ་གཞོན་ནུ་རྒྱལ་མཆོག
+  author: ཀུན་དགའ་དབང་ཕྱུག
 statistics:
   ocr_word_mean_confidence_index: 0.9490008801119442
   ocr_word_median_confidence_index: 0.9800000190734863
 quality: null
 bases:
-  I3CN7849:
-    source_metadata:
-      id: http://purl.bdrc.io/resource/I3CN7849
-      total_pages: 506
-      volume_number: 3
-      volume_pages_bdrc_intro: 2
-    order: 3
-    base_file: I3CN7849.txt
-    statistics:
-      ocr_word_median_confidence_index: 0.9800000190734863
-      ocr_word_mean_confidence_index: 0.9512578328600426
-    legacy_id: v003
   I3CN7848:
     source_metadata:
       id: http://purl.bdrc.io/resource/I3CN7848
@@ -55,6 +43,18 @@ bases:
       ocr_word_median_confidence_index: 0.9800000190734863
       ocr_word_mean_confidence_index: 0.9532458758756172
     legacy_id: v002
+  I3CN7849:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I3CN7849
+      total_pages: 506
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I3CN7849.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9800000190734863
+      ocr_word_mean_confidence_index: 0.9512578328600426
+    legacy_id: v003
   I3CN7847:
     source_metadata:
       id: http://purl.bdrc.io/resource/I3CN7847
